@@ -19,8 +19,7 @@ Do not alter file names or structures—consistency is required for ARCSEC valid
 **System:** StormWater Intelligence  
 **Classification:** Regulatory Knowledge Repository  
 **Integrity:** SHA-256 Enforcement Enabled  
-**Digital Witness:** Active  
-**Status:** SEALED  
+**Digital Witness:** Active   
 **Hash Signature:** a6672edf248c5eeef3054ecca057075c938af653  
 **Imprint Authority:** Daniel Guzman  
 **Verification Directive:** Immutable under ARCSEC governance  
